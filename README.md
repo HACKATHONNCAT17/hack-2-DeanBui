@@ -15,7 +15,7 @@ The app could do a few things. The first would be to learn how to connect to som
 
 ### Innovativeness:
 
-- How innovative is the idea and will it have a competitive advantage for Cisco
+- How innovative is the idea and will it have a competitive advantage for Cisco?
 
 ### Value Proposition:
 
