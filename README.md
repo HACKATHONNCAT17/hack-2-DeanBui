@@ -15,26 +15,18 @@ The app could do a few things. The first would be to learn how to connect to som
 
 ### Innovativeness:
 
-- Idea/solution is an incremental improvement in the way we do things today and will keep our current offerings strong but will not generate new opportunities
-- Idea/solution is a substantial new opportunity in the way we do things today and will make our current offerings competitive in the market
-- Idea/solution will create a new market/offering for Cisco and will generate a new source of revenue
+- How innovative is the idea and will it have a competitive advantage for Cisco
 
 ### Value Proposition:
 
-- Idea/solution has no potential to generate new revenue or productivity improvements
-- Idea/solution has a greater than 50 percent chance
-- Idea/solution has a greater than 75 percent chance to generate new revenue or productivity improvements
+- How high is the potential value (productivity or new revenue)?
 
 ### Prototype:
-- Solution does not feature a prototype
-- Solution does feature a working prototype
+- Does the solution feature a working prototype or proof-of-concept application? 
 
 ### Longevity:
-- Solution is not likely to be further developed after this weekend
-- Solution has a greater than 50 percent chance to be included into an existing product or capability roadmap
-- Solution has a greater than 75 percent chance to be included into an existing product of capability roadmap
+- How likely is it to be further developed into a product or capability roadmap?
 
 ### Quality:
 
-- Solution is hastily put together proof of concept with no consideration for design or architecture
-- Solution is elegantly designed and architected
+- Is the solution elegant and of high quality?
